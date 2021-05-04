@@ -23,3 +23,23 @@ Devops Responsibilities:
 •	Writing few playbooks as per the requirement to make automation on IAAS.
 •	Monitoring the Applications and trying to resolve the issue fromm web apps.
 •	Diverse experience in all phases of software development life cycle (SDLC) especially in Analysis, Design, Development, Testing and Deploying of applications.
+•	Scripting in multiple languages on UNIX, LINUX and Windows - Batch, Shell script etc.
+•	Maintenance and administration of Linux, providing support via Ticketing System.
+•	Created user accounts, groups and assigning privileges to them.
+•	Installation and configuration of Red Hat Enterprise Linux.
+•	Troubleshooting on various issues of Linux box.
+•	Network File system Administration for Servers and Clients, Importing Exporting File systems, Troubleshooting NFS. 
+•	User management: Creation, Deletion, Assigning rights/privileges to users as per ticket/approval.
+•	Managing File System, creation/extend as per Change Management Policy.	
+•	Taking Daily backup and Daily reports. 
+•	Checking disk space and the replication from production to replication server. 
+•	Solving the issues based on customer requirements.
+•	NFS server configuration and maintenance.
+•	Use of LVM for dynamically extending and reducing partitions.
+•	DNS server configuration and maintenance.
+•	Troubleshooting the technical problems    
+•	Customization the application with required features
+•	Remote system administration using tools like Ssh, Telnet, and Rlogin.
+•	Installing packages through RPM, YUM.
+•	Automation of jobs through crontab.
+
